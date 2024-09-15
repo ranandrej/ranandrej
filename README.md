@@ -2,7 +2,9 @@
 <h3 align="center">A Computer Science student at the Faculty of Technical Sciences in Novi Sad. I'm passionate about coding and always eager to learn new technologies. My goal is to become a Full-Stack Web Developer, and I'm currently honing my skills in both frontend and backend development.</h3>
 
 - 🔭 I’m currently working on [my startup app called Moto Bazaar](https://motobazaar-front.onrender.com/)
-
+  
+- My last big project you can find here [motomax.rs](https://motomax.rs/)
+  
 - 🌱 I’m currently learning **Django Rest Framework,NuxtJS,Machine Learning**
 
 - 📫 How to reach me **ranandrej@gmail.com**
