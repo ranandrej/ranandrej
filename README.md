@@ -1,4 +1,4 @@
-# Hi 👋, I'm Andrej
+### Hi 👋, I'm Andrej
 ### A passionate Computer Science student from Serbia
 
 - 🔭 I’m currently working on [my startup app called Moto Bazaar](https://motobazaar-front.onrender.com/)
