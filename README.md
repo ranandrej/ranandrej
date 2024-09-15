@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/andrej ranisavljevic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrej ranisavljevic" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andrej-ranisavljević-3553b4230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrej ranisavljevic" height="30" width="40" /></a>
 <a href="https://instagram.com/andrej_ranisavljeviic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrej_ranisavljeviic" height="30" width="40" /></a>
 </p>
 
