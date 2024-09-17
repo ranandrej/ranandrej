@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrej</h1>
-<h3 align="center">A Computer Science student at the Faculty of Technical Sciences in Novi Sad. I'm passionate about coding and always eager to learn new technologies. My goal is to become a Full-Stack Web Developer, and I'm currently honing my skills in both frontend and backend development.</h3>
+<h3 align="center">An Applied Software Engineering  student at the Faculty of Technical Sciences in Novi Sad. I'm passionate about coding and always eager to learn new technologies. My goal is to become a Full-Stack Web Developer, and I'm currently honing my skills in both frontend and backend development.</h3>
 
 - 🔭 I’m currently working on [my startup app called Moto Bazaar](https://motobazaar-front.onrender.com/)
   
