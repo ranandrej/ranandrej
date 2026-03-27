@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on mobile app startup in React Native
   
-- My last big project you can find here [motomax.rs](https://motomax.rs/)
+- My last big project you can find here [motomaxshop.rs](https://motomaxshop.rs/)
   
 - 🌱 I’m currently learning **React,Django Rest Framework,NuxtJS,Cyber Security**
 
